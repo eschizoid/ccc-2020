@@ -1,0 +1,5 @@
+rootProject.name = "ccc-2020"
+
+include "streaming"
+include "transformation"
+include "visualization"

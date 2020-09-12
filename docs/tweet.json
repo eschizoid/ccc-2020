@@ -1,0 +1,350 @@
+{
+  "messages": [
+    {
+      "data": {
+        "created_at": "Wed Jun 10 16:04:22 +0000 2020",
+        "id": 1270748650344534017,
+        "id_str": "1270748650344534017",
+        "text": "RT @PAN_CDMX: \ud83d\ude4c \u00a1Lleg\u00f3 el momento de realizar el #PlanPorLaCDMX!\n\n\ud83d\udce3 Acompa\u00f1a al Presidente @AAtaydeR y a los Dirigentes del PRD, PRI y PVEM\u2026",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 32610504,
+          "id_str": "32610504",
+          "name": "Juan S. Burelo",
+          "screen_name": "jsburelo",
+          "location": "Distrito Federal, M\u00e9xico",
+          "url": null,
+          "description": "Comunicador. Pap\u00e1 y esposo feliz, fan de los Broncos, chelero, vinero, mezcalero y parrillero. @NFL @SoyParrilleromx",
+          "translator_type": "none",
+          "protected": false,
+          "verified": false,
+          "followers_count": 637,
+          "friends_count": 1238,
+          "listed_count": 9,
+          "favourites_count": 4402,
+          "statuses_count": 2691,
+          "created_at": "Fri Apr 17 21:53:02 +0000 2009",
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "C6E2EE",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+          "profile_background_tile": false,
+          "profile_link_color": "1F98C7",
+          "profile_sidebar_border_color": "C6E2EE",
+          "profile_sidebar_fill_color": "DAECF4",
+          "profile_text_color": "663B12",
+          "profile_use_background_image": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/3672936079/023f402c283ec461b765dc91ca65374f_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/3672936079/023f402c283ec461b765dc91ca65374f_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/32610504/1441390787",
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Wed Jun 10 16:03:51 +0000 2020",
+          "id": 1270748521277390848,
+          "id_str": "1270748521277390848",
+          "text": "\ud83d\ude4c \u00a1Lleg\u00f3 el momento de realizar el #PlanPorLaCDMX!\n\n\ud83d\udce3 Acompa\u00f1a al Presidente @AAtaydeR y a los Dirigentes del PRD,\u2026 https://t.co/t73yMckodf",
+          "display_text_range": [
+            0,
+            140
+          ],
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+          "truncated": true,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 29472715,
+            "id_str": "29472715",
+            "name": "PAN Ciudad de M\u00e9xico",
+            "screen_name": "PAN_CDMX",
+            "location": "Durango 22, Col.Roma Nte, CDMX",
+            "url": "http://www.pancdmx.org.mx",
+            "description": "Cuenta Oficial del PANCDMX. Presidente: Andr\u00e9s Atayde @AAtaydeR #S\u00edHayDeOtra",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 34967,
+            "friends_count": 1704,
+            "listed_count": 360,
+            "favourites_count": 20581,
+            "statuses_count": 38725,
+            "created_at": "Tue Apr 07 15:40:25 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1237376539144196096/WmeITa1W_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237376539144196096/WmeITa1W_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/29472715/1583880005",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "extended_tweet": {
+            "full_text": "\ud83d\ude4c \u00a1Lleg\u00f3 el momento de realizar el #PlanPorLaCDMX!\n\n\ud83d\udce3 Acompa\u00f1a al Presidente @AAtaydeR y a los Dirigentes del PRD, PRI y PVEM, con Diputados en el Foro Ciudadano por la #CDMX.\n\n\ud83d\uddd3\ufe0f HOY 10 de junio\n\u23f2\ufe0f 12:00 horas\n\ud83d\udcf1 V\u00eda Facebook Live en: \nhttps://t.co/XZP2hIObBk\n\n#S\u00edHayDeOtra https://t.co/FbDa9tRmdo",
+            "display_text_range": [
+              0,
+              273
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "text": "PlanPorLaCDMX",
+                  "indices": [
+                    35,
+                    49
+                  ]
+                },
+                {
+                  "text": "CDMX",
+                  "indices": [
+                    169,
+                    174
+                  ]
+                },
+                {
+                  "text": "S\u00edHayDeOtra",
+                  "indices": [
+                    261,
+                    273
+                  ]
+                }
+              ],
+              "urls": [
+                {
+                  "url": "https://t.co/XZP2hIObBk",
+                  "expanded_url": "https://www.facebook.com/ForoCiudadanoCDMX/",
+                  "display_url": "facebook.com/ForoCiudadanoC\u2026",
+                  "indices": [
+                    236,
+                    259
+                  ]
+                }
+              ],
+              "user_mentions": [
+                {
+                  "screen_name": "AAtaydeR",
+                  "name": "Andr\u00e9s Atayde",
+                  "id": 48191739,
+                  "id_str": "48191739",
+                  "indices": [
+                    77,
+                    86
+                  ]
+                }
+              ],
+              "symbols": [],
+              "media": [
+                {
+                  "id": 1270748510175088647,
+                  "id_str": "1270748510175088647",
+                  "indices": [
+                    274,
+                    297
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/EaKbCYvX0AchSoZ.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/EaKbCYvX0AchSoZ.jpg",
+                  "url": "https://t.co/FbDa9tRmdo",
+                  "display_url": "pic.twitter.com/FbDa9tRmdo",
+                  "expanded_url": "https://twitter.com/PAN_CDMX/status/1270748521277390848/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                    "thumb": {
+                      "w": 150,
+                      "h": 150,
+                      "resize": "crop"
+                    },
+                    "small": {
+                      "w": 487,
+                      "h": 680,
+                      "resize": "fit"
+                    },
+                    "large": {
+                      "w": 916,
+                      "h": 1280,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "w": 859,
+                      "h": 1200,
+                      "resize": "fit"
+                    }
+                  }
+                }
+              ]
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "id": 1270748510175088647,
+                  "id_str": "1270748510175088647",
+                  "indices": [
+                    274,
+                    297
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/EaKbCYvX0AchSoZ.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/EaKbCYvX0AchSoZ.jpg",
+                  "url": "https://t.co/FbDa9tRmdo",
+                  "display_url": "pic.twitter.com/FbDa9tRmdo",
+                  "expanded_url": "https://twitter.com/PAN_CDMX/status/1270748521277390848/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                    "thumb": {
+                      "w": 150,
+                      "h": 150,
+                      "resize": "crop"
+                    },
+                    "small": {
+                      "w": 487,
+                      "h": 680,
+                      "resize": "fit"
+                    },
+                    "large": {
+                      "w": 916,
+                      "h": 1280,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "w": 859,
+                      "h": 1200,
+                      "resize": "fit"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "favorite_count": 1,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "PlanPorLaCDMX",
+                "indices": [
+                  35,
+                  49
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/t73yMckodf",
+                "expanded_url": "https://twitter.com/i/web/status/1270748521277390848",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ],
+            "user_mentions": [
+              {
+                "screen_name": "AAtaydeR",
+                "name": "Andr\u00e9s Atayde",
+                "id": 48191739,
+                "id_str": "48191739",
+                "indices": [
+                  77,
+                  86
+                ]
+              }
+            ],
+            "symbols": []
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "filter_level": "low",
+          "lang": "es"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "PlanPorLaCDMX",
+              "indices": [
+                49,
+                63
+              ]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "PAN_CDMX",
+              "name": "PAN Ciudad de M\u00e9xico",
+              "id": 29472715,
+              "id_str": "29472715",
+              "indices": [
+                3,
+                12
+              ]
+            },
+            {
+              "screen_name": "AAtaydeR",
+              "name": "Andr\u00e9s Atayde",
+              "id": 48191739,
+              "id_str": "48191739",
+              "indices": [
+                91,
+                100
+              ]
+            }
+          ],
+          "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "es",
+        "timestamp_ms": "1591805062267"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+---
+runtime: custom
+api_version: '1.0'
+env: flexible
+threadsafe: true
+service: ccc-2020-streaming
+automatic_scaling:
+  min_num_instances: 1
+  max_num_instances: 2
+  cpu_utilization:
+    target_utilization: 0.5
+env_variables:
+  CONSUMER_KEY: ${CONSUMER_KEY}
+  CONSUMER_SECRET: ${CONSUMER_SECRET}
+  ACCESS_TOKEN: ${ACCESS_TOKEN}
+  ACCESS_SECRET: ${ACCESS_SECRET}
+  GOOGLE_APPLICATION_CREDENTIALS: ${GOOGLE_APPLICATION_CREDENTIALS}
+  TRACK: ${TRACK}

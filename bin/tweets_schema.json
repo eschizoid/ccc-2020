@@ -1,0 +1,16 @@
+{
+  "schema": [
+    {
+      "description": "tweet timestamp",
+      "mode": "REQUIRED",
+      "name": "timestamp",
+      "type": "STRING"
+    },
+    {
+      "description": "tweet payload",
+      "mode": "REQUIRED",
+      "name": "payload",
+      "type": "STRING"
+    }
+  ]
+}

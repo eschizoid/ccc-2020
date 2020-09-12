@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  ccc-2020:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+     - CONSUMER_KEY=${CONSUMER_KEY}
+     - CONSUMER_SECRET=${CONSUMER_SECRET}
+     - ACCESS_TOKEN=${ACCESS_TOKEN}
+     - ACCESS_SECRET=${ACCESS_SECRET}
+     - GOOGLE_APPLICATION_CREDENTIALS=${GOOGLE_APPLICATION_CREDENTIALS}
+     - TRACK=${TRACK}
