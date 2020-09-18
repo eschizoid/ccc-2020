@@ -5,6 +5,6 @@ The purpose of this project is to stream tweets using Twitter Streaming API and 
 * Python 3
 
 ### Running Jupyter infrastructure
-```
+```shell script
 $ ./bin/deploy_visualization.sh
 ```

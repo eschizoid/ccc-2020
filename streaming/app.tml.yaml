@@ -6,7 +6,7 @@ threadsafe: true
 service: ccc-2020-streaming
 automatic_scaling:
   min_num_instances: 1
-  max_num_instances: 2
+  max_num_instances: 1
   cpu_utilization:
     target_utilization: 0.5
 env_variables:
@@ -14,5 +14,5 @@ env_variables:
   CONSUMER_SECRET: ${CONSUMER_SECRET}
   ACCESS_TOKEN: ${ACCESS_TOKEN}
   ACCESS_SECRET: ${ACCESS_SECRET}
-  GOOGLE_APPLICATION_CREDENTIALS: ${GOOGLE_APPLICATION_CREDENTIALS}
+  GOOGLE_APPLICATION_CREDENTIALS: /ccc-2020-289323-1245db651f9b.json
   TRACK: ${TRACK}

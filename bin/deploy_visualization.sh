@@ -2,7 +2,7 @@
 
 cd visualization || exit
 
-gcloud beta dataproc clusters create cluster-name \
+gcloud beta dataproc clusters create chicago-cloud-conference-2020 \
   --optional-components=ANACONDA,JUPYTER \
   --image-version=1.4 \
   --enable-component-gateway \
