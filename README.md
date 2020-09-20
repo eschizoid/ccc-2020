@@ -5,10 +5,22 @@
 ![GitHub Logo](images/ccc-2020.png)
 
 ## Prerequisites
- - A PubSub topic
- - A BigQuery table
- - A GCS bucket called `chicago-cloud-conference-2020` (or similar, but make sure to update the scripts in the `bin`
- folder)
+
+### Cloud Resources
+- A PubSub topic
+- A BigQuery table
+- A GCS bucket called `chicago-cloud-conference-2020` (or similar, but make sure to update the scripts in the `bin`
+folder)
+
+### Environment variables
+```shell script
+export CONSUMER_KEY=${CONSUMER_KEY}
+export CONSUMER_SECRET=${CONSUMER_SECRET}
+export ACCESS_TOKEN=${ACCESS_TOKEN}
+export ACCESS_SECRET=${ACCESS_SECRET}
+export GOOGLE_APPLICATION_CREDENTIALS=${GOOGLE_APPLICATION_CREDENTIALS}
+export TRACK=${TRACK}
+```
 
 ## Deployment
 
@@ -32,7 +44,12 @@ $ ./bin/deploy_streaming.sh
 $ ./bin/deploy_visualization.sh
 ```
 
-## Sample Query
+### Deleting Apps
+```shell script
+$ ./bin/delete_apps.sh
+```
+
+### Sample Query
 ```sql
 WITH
   DATA AS (
@@ -41,7 +58,7 @@ WITH
     JSON_EXTRACT_ARRAY(SAFE_CONVERT_BYTES_TO_STRING(FROM_BASE64(payload)),
       "$[messages]") AS tweets
   FROM
-    `gov_cdmx_twitter_sentiment.tweets`)
+    `ccc-2020-289323.chicago_cloud_conference.tweets`)
 SELECT
   tweet_timestamp,
   REGEXP_REPLACE(IFNULL(JSON_EXTRACT_SCALAR(tweet_text,
@@ -58,4 +75,5 @@ FROM
   DATA
 CROSS JOIN
   UNNEST(tweets) AS tweet_text
+LIMIT 5000;
 ```
